@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProjectCodin
+- 👋 Hi, I’m @N1ck-J0hns0n
 - 👀 I’m interested in NJ News.
 - 🌱 I’m currently learning HTML.
 - 💞️ I’m looking to collaborate on Nogglejock News.
